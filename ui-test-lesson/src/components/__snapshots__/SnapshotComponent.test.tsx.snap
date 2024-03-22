@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SnapshotComponent should render text 1`] = `
+<div>
+  <div>
+    <p>
+      test
+    </p>
+  </div>
+</div>
+`;
